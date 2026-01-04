@@ -2,8 +2,8 @@
 
 **Student Name:** Pranav S  
 **Student ID:** 25071971  
-**Email:** (same as LMS submission)  
-**Date:** 2026-01-04  
+**Email:** pranav.careerpath@gmail.com  
+**Date:** 04-01-2026  
 
 ## Project Overview
 
