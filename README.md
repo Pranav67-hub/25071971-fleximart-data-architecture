@@ -52,7 +52,7 @@ All components are **reproducible** using Docker (MySQL + MongoDB) and scripts c
 └── generate_warehouse_data.py
 
 
-## Technologies Used
+## Tech Used
 
 - **Python 3.x**
   - `pandas`
